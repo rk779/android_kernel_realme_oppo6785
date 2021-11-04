@@ -1,7 +1,5 @@
 config OPLUS_FEATURE_CMDLINE
   tristate "Oplus command line"
   default n
-  help 
+  help
         define this config to get command line.
-
-
